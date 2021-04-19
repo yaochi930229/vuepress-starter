@@ -1,10 +1,10 @@
 ---
 #首页
-home: true
+home: true  
 # 图标
-heroImage: /ts-logo.jpg
+heroImage: /ts-logo.png
 # 按钮文本
-actionText: 开始学习吧 →
+actionText: 开始学习 →
 # 按钮点击跳转路径
 actionLink: /chapter1/01_初识TS
 ---
