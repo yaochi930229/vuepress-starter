@@ -4,9 +4,9 @@
   "description": "VuePress开发文档笔记",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:deploy": "gh-pages -d dist"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [
     "VuePress，笔记，文档"
