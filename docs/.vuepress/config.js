@@ -11,6 +11,11 @@ module.exports = {
         collapsable: false,
         children: ["chapter1/01_初识TS"],
       },
+      {
+        title: "遇到的记录在册",
+        collapsable: false,
+        children: ["chapter2/01_有惑必查"],
+      },
     ],
     nav: [
       {
